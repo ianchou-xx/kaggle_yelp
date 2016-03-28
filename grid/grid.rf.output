@@ -1,0 +1,27 @@
+k:100, n:10
+training f1_score: 0.982908
+validation f1_score: 0.552745
+k:100, n:100
+training f1_score: 0.999994
+validation f1_score: 0.584713
+k:100, n:1000
+training f1_score: 0.999994
+validation f1_score: 0.586168
+k:200, n:10
+training f1_score: 0.982640
+validation f1_score: 0.548470
+k:200, n:100
+training f1_score: 0.999994
+validation f1_score: 0.580948
+k:200, n:1000
+training f1_score: 0.999994
+validation f1_score: 0.582212
+k:400, n:10
+training f1_score: 0.982187
+validation f1_score: 0.548193
+k:400, n:100
+training f1_score: 0.999973
+validation f1_score: 0.577286
+k:400, n:1000
+training f1_score: 0.999994
+validation f1_score: 0.576224
